@@ -1,0 +1,8 @@
+{
+    "database":{
+        "userName":"root",
+        "password":"",
+        "hostName":"localhost",
+        "database":"okj"
+    }
+}
